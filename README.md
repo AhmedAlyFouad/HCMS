@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🔗 GitHub Repository: https://github.com/AhmedAlyFouad/HCMS
 
 # HCMS API – Healthcare Complaint Management System
@@ -39,3 +40,7 @@ This project is suitable for healthcare platforms, government services, or enter
 ├── .gitignore
 ├── .env.example
 └── README.md
+=======
+# HCMS
+This project is a FastAPI-based backend system designed to manage healthcare complaints. It supports user authentication, role-based access, analytics dashboards, and Azure SQL integration.
+>>>>>>> 4e5461639bac7c4b94e57a4d09d8420330058388
